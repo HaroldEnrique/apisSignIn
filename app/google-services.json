@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "928219606873",
+    "firebase_url": "https://signinfbase.firebaseio.com",
+    "project_id": "signinfbase",
+    "storage_bucket": "signinfbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928219606873:android:14c900b4badfae83",
+        "android_client_info": {
+          "package_name": "login.upeu.com.apissignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928219606873-q60lmlielid9cb2s1tvcqs74l8ufugf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "login.upeu.com.apissignin",
+            "certificate_hash": "1ba6441f24fe22cc648bfce5f72f1e7d5b6191d2"
+          }
+        },
+        {
+          "client_id": "928219606873-lvonpu2dcjokgqksluj302kdvkdl4cjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQ8OsnuD1CqrviSfFlscAvw-gZTvIOAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928219606873-lvonpu2dcjokgqksluj302kdvkdl4cjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
